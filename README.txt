@@ -1,3 +1,9 @@
+Buy the Aliceblue Book on Amazon
+================================
+
+Aliceblue by Chris Selmys
+Search for Chris Selmys on https://www.amazon.ca
+
 Running Aliceblue Under Linux
 =============================
 
